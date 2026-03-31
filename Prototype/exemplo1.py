@@ -14,5 +14,3 @@ p2.nome = "Vilão"
 
 print(p1.nome)  
 print(p2.nome)  
-
-#Matheus, Jose, Victor, Manuela
