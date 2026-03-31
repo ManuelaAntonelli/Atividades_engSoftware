@@ -15,5 +15,3 @@ c2.modelo = "Onix"
 
 print(c1.modelo, c1.cor)  
 print(c2.modelo, c2.cor)  
-
-#Matheus, Jose, Victor, Manuela
